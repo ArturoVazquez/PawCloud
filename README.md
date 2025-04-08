@@ -29,7 +29,7 @@ PawCloud es una aplicación diseñada para mejorar la gestión de clínicas vete
 
 <div style="text-align: center;">
   <h3>Presentación del proyecto</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="flex: 1 0 21%; padding: 5px;">
       <img src="assets/PawCloud/1.jpg" alt="Imagen 1" style="width: 100%;">
     </div>
@@ -70,4 +70,37 @@ PawCloud es una aplicación diseñada para mejorar la gestión de clínicas vete
       <img src="assets/PawCloud/13.jpg" alt="Imagen 13" style="width: 100%;">
     </div>
     <div style="flex: 1 0 21%; padding: 5px;">
-      <
+      <img src="assets/PawCloud/14.jpg" alt="Imagen 14" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/15.jpg" alt="Imagen 15" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/16.jpg" alt="Imagen 16" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/17.jpg" alt="Imagen 17" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/18.jpg" alt="Imagen 18" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/19.jpg" alt="Imagen 19" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/20.jpg" alt="Imagen 20" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/21.jpg" alt="Imagen 21" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/22.jpg" alt="Imagen 22" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/23.jpg" alt="Imagen 23" style="width: 100%;">
+    </div>
+    <div style="flex: 1 0 21%; padding: 5px;">
+      <img src="assets/PawCloud/24.jpg" alt="Imagen 24" style="width: 100%;">
+    </div>
+  </div>
+</div>
