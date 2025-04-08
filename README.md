@@ -24,13 +24,11 @@ PawCloud es una aplicación diseñada para mejorar la gestión de clínicas vete
   <img src="assets/PanelVentas.png" alt="Vista previa de PawCloud" style="width: 90%;"/>
 </div>
 
----
+----------
 
-
-### Presentación del proyecto
 
 <div style="text-align: center;">
-  <h3>Galería de Imágenes</h3>
+  <h3>Presentación del proyecto</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="flex: 1 0 21%; padding: 5px;">
       <img src="assets/PawCloud/1.jpg" alt="Imagen 1" style="width: 100%;">
