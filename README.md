@@ -123,9 +123,15 @@ Aquí se muestra una galería visual de la presentación de la aplicación:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Arturo Vázquez Paumard**  
 📧 [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/arturovazquezpaumard/)  
 💻 [GitHub](https://github.com/ArturoVazquez)
+
+**David López Domínguez**  
+💻 [GitHub](https://github.com/DavidLD3)
+
+**Pedro Ringer Arcos Piloña**  
+💻 [GitHub](https://github.com/PedringerAP)
