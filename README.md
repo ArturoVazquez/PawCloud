@@ -83,7 +83,7 @@ Connection conn = DriverManager.getConnection(url, user, password);
 
 Aquí se muestra una galería visual de la presentación de la aplicación:
 
-![Vista 1](assets/PawCloud/1.jpg)
+![Vista 1](./assets/PawCloud/1.jpg)
 ![Vista 2](assets/PawCloud/2.jpg)
 ![Vista 3](assets/PawCloud/3.jpg)
 ![Vista 4](assets/PawCloud/4.jpg)
