@@ -3,7 +3,7 @@
 
 **PawCloud** es una aplicación de escritorio desarrollada en **Java Swing**, diseñada para facilitar la gestión de clínicas veterinarias. Permite a los profesionales del sector veterinario administrar clientes, mascotas, historiales y citas, todo conectado a una base de datos remota en la nube mediante **MySQL alojado en AWS**.
 
-Este proyecto fue desarrollado como parte del módulo de Proyecto Integrador del ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Este proyecto fue desarrollado como parte del módulo de Proyecto Final de Grado del ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 ---
 
